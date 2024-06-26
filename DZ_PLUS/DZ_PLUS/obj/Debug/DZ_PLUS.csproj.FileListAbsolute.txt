@@ -1,0 +1,16 @@
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.csproj.AssemblyReference.cache
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.Form1.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.MATRIX_CALC.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.Properties.Resources.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.csproj.GenerateResource.cache
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.csproj.CoreCompileInputs.cache
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\bin\Debug\DZ_PLUS.exe.config
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\bin\Debug\DZ_PLUS.exe
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\bin\Debug\DZ_PLUS.pdb
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.exe
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.pdb
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.CLOCK.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.GARFIKY.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.TEXT_ED.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.ANKETA.resources
+C:\Users\Анна Мамчич\Desktop\PRGRMMNG\c#.net_projekts\DZ_PLUS\DZ_PLUS\obj\Debug\DZ_PLUS.ANK_RES.resources
